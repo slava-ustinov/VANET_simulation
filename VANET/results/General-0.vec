@@ -1,0 +1,27 @@
+version 2
+run General-0-20130625-08:36:51-2972
+attr configname General
+attr datetime 20130625-08:36:51
+attr experiment General
+attr inifile omnetpp.ini
+attr iterationvars ""
+attr iterationvars2 $repetition=0
+attr measurement ""
+attr network vanet
+attr processid 2972
+attr repetition 0
+attr replication #0
+attr resultdir results
+attr runnumber 0
+attr seedset 0
+
+vector 18  vanet.AV[6].comp  "Flood propagation times"  ETV
+vector 24  vanet.AV[8].comp  "Flood propagation times"  ETV
+vector 15  vanet.AV[5].comp  "Flood propagation times"  ETV
+vector 27  vanet.AV[9].comp  "Flood propagation times"  ETV
+vector 0  vanet.AV[0].comp  "Flood propagation times"  ETV
+vector 3  vanet.AV[1].comp  "Flood propagation times"  ETV
+vector 6  vanet.AV[2].comp  "Flood propagation times"  ETV
+vector 12  vanet.AV[4].comp  "Flood propagation times"  ETV
+vector 9  vanet.AV[3].comp  "Flood propagation times"  ETV
+vector 21  vanet.AV[7].comp  "Flood propagation times"  ETV

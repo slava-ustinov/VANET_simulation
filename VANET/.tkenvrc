@@ -1,0 +1,6 @@
+# Partial Tkenv config file -- see $HOME/.tkenvrc as well
+inspector "vanet.AVs[1]" "AV" "2" "565x341+623+419:normal"
+inspector "vanet.SRVs[1]" "SRV" "2" "578x342+574+515:normal"
+inspector "vanet.guard_s" "Guard_Server" "2" "565x339+1012+50:normal"
+inspector "vanet.SRVs[0]" "SRV" "2" "469x342+69+517:normal"
+
